@@ -38,8 +38,7 @@ I welcome research collaborations and academic opportunities in artificial intel
 - **Generative AI:** Diffusion models, variational autoencoders (VAEs), generative replay, and generative modeling
 - **Language and Multimodal AI:** Large language models (LLMs), natural language processing (NLP), text analysis, healthcare NLP, and vision-language models
 - **Medical Imaging Modalities:** MRI, CT, ultrasound, OCT, and histopathology imaging
-- **Non Medical imaging
-- - **General Computer Vision Datasets:** CIFAR-10, CIFAR-100, MNIST, Fashion-MNIST, and ImageNet
+- **General Computer Vision Datasets:** CIFAR-10, CIFAR-100, MNIST, Fashion-MNIST, and ImageNet
 - **Cybersecurity and Telecommunications:** Network security, wireless networks, intrusion detection, risk assessment, incident response, security auditing, TCP/IP, and information security management
 - **Tools and Platforms:** Git, GitHub, Jupyter Notebook, Visual Studio Code, and Microsoft Office
 
