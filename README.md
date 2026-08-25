@@ -44,20 +44,17 @@ I welcome research collaborations and academic opportunities in artificial intel
 
 ## Featured Research Projects
 
+### Diffusion Models for Medical Imaging
 
-[View repository](https://github.com/SaraYavari27/medical-imaging-segmentation)
+Diffusion-based methods for medical image analysis, segmentation, reconstruction, and anomaly detection.
+
+[View repository](https://github.com/SaraYavari27/diffusion-models-medical-imaging)
 
 ### Continual Learning for Medical Images
 
 Knowledge distillation and generative replay methods for mitigating catastrophic forgetting in incremental medical image learning.
 
 [View repository](https://github.com/SaraYavari27/continual-medical-image-learning)
-
-### Diffusion Models
-
-Diffusion-based methods for medical image analysis, segmentation, reconstruction, and anomaly detection.
-
-[View repository](https://github.com/SaraYavari27/Diffusion-model)
 
 ### Vision Transformers
 
