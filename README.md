@@ -48,13 +48,13 @@ I welcome research collaborations and academic opportunities in artificial intel
 
 Diffusion-based methods for medical image analysis, segmentation, reconstruction, and anomaly detection.
 
-[View repository](https://github.com/SaraYavari27/diffusion-models-medical-imaging)
+[View repository](https://github.com/SaraYavari27/medical-imaging-segmentation/tree/main)
 
 ### Continual Learning for Medical Images
 
 Knowledge distillation and generative replay methods for mitigating catastrophic forgetting in incremental medical image learning.
 
-[View repository](https://github.com/SaraYavari27/continual-medical-image-learning)
+[View repository](https://github.com/SaraYavari27/Incremental-Learning-for-Mitigating-Catastrophic-Forgetting)
 
 ### Vision Transformers
 
